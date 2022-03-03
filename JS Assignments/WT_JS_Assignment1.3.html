@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sum2 nos (if same triple sum)</title>
+        <script>
+            function Sum()
+            {
+                var x=parseInt(document.getElementById("fno").value);
+                var y=parseInt(document.getElementById("sno").value);
+                var z;
+                if(x==y)
+                {
+                    z=x*3;
+                }
+                else
+                {
+                    z=x+y;
+                }
+                document.getElementById("res").value=z;
+            }
+        </script>
+    </head>
+    <body>
+        1st Number: <input type="number" id=fno placeholder="Enter 1st Number" required><br/>
+        2nd Number: <input type="number" id=sno placeholder="Enter 2nd Number" required><br/>
+        <br/><br/>
+        <input type="button" value="Sum" onclick="Sum()">
+        <br/><br/>The result is:<br/>
+        <input type="number" id="res" placeholder="Answer">
+        <br/><br/>
+        <input type="button" id=clearbtn value="Clear" onclick="Clear()">
+    </body>
+</html>

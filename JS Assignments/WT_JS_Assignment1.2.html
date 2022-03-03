@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Find file extension</title>
+        <script>
+            function fileExt()
+            {
+                filename=document.getElementById("myfile").value;
+                document.getElementById("res").value=filename.split('.').pop();
+            }
+        </script>
+    </head>
+    <body>
+        Select a file: &ensp;<input type="file" id="myfile" ><br/>
+        <input type="button" value="get file extension" onclick="fileExt()">
+        <input type="text" id="res" value="">
+    </body>
+</html>
