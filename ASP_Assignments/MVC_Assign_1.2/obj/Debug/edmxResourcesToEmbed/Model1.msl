@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MoviedatabaseModelStoreContainer" CdmEntityContainer="MoviedatabaseEntities1">
+    <EntitySetMapping Name="Movietables">
+      <EntityTypeMapping TypeName="MoviedatabaseModel.Movietable">
+        <MappingFragment StoreEntitySet="Movietable">
+          <ScalarProperty Name="mid" ColumnName="mid" />
+          <ScalarProperty Name="moviename" ColumnName="moviename" />
+          <ScalarProperty Name="dateofrelease" ColumnName="dateofrelease" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
