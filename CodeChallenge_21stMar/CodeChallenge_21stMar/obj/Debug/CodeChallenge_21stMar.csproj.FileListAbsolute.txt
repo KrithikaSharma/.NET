@@ -1,0 +1,7 @@
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\bin\Debug\CodeChallenge_21stMar.exe.config
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\bin\Debug\CodeChallenge_21stMar.exe
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\bin\Debug\CodeChallenge_21stMar.pdb
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\obj\Debug\CodeChallenge_21stMar.csproj.AssemblyReference.cache
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\obj\Debug\CodeChallenge_21stMar.csproj.CoreCompileInputs.cache
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\obj\Debug\CodeChallenge_21stMar.exe
+C:\Users\krith\source\repos\CodeChallenge_21stMar\CodeChallenge_21stMar\obj\Debug\CodeChallenge_21stMar.pdb
